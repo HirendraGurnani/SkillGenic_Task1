@@ -648,6 +648,10 @@ function SearchBar() {
                         backgroundColor: "#7035ff",
                         color: "white",
                         padding: "5px 15px",
+                        cursor: "auto",
+                        "&:hover":{
+                          backgroundColor: "#7035ff",
+                        }
                       }}
                     >
                       Design
@@ -694,6 +698,10 @@ function SearchBar() {
                         backgroundColor: "#077dff",
                         color: "white",
                         padding: "5px 15px",
+                        cursor: "auto",
+                        "&:hover":{
+                          backgroundColor: "#077dff",
+                        }
                       }}
                     >
                       Development
@@ -740,6 +748,10 @@ function SearchBar() {
                         backgroundColor: "#077dff",
                         color: "white",
                         padding: "5px 15px",
+                        cursor: "auto",
+                        "&:hover":{
+                          backgroundColor: "#077dff",
+                        }
                       }}
                     >
                       Development
